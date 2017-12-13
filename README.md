@@ -5,7 +5,6 @@ After writing a simple collaborative filtering algorithms from scratch earlier i
 
 Rating Data download link: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Electronics.csv
 
-Metadata download link: http://snap.stanford.edu/data/amazon/productGraph/metadata.json.gz
 
 This project was written in PySpark. The repository contains following files in the Code folder:
 
