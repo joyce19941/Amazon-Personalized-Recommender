@@ -10,7 +10,11 @@ Metadata download link: http://snap.stanford.edu/data/amazon/productGraph/metada
 This project was written in PySpark. The repository contains following files in the Code folder:
 
 'AMZ ALS.ipynb': Alternating least square model and related evaluation.
+
 'AMZ BASELINE.ipynb': Baseline model and related evaluation.
+
 'AMZ LSH.ipynb': Locality sensitive hashing model and related evaluation.
+
 'E4571 Final Report.pdf': Project report with code explanation (need to download for correct format).
+
 'Data Cleaning.ipynb': initial data cleaning and subset selection.
