@@ -15,6 +15,8 @@ This project was written in PySpark. The repository contains following files in 
 
 'AMZ LSH.ipynb': Locality sensitive hashing model and related evaluation.
 
+'AMZ FPM.ipynb': Frequent pattern mining and related evaluation.
+
 'E4571 Final Report.pdf': Project report with code explanation (need to download for correct format).
 
-'saved data'folder: 
+'saved data'folder: Saved table for using in FPM
